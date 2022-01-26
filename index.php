@@ -1,1 +1,1 @@
-<?php include_once("main.main, html.html, CONFIG.CONFIG, min.min, style.style" ); ?>
+<?php include_once("" ); ?>
