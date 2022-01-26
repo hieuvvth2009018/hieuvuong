@@ -53,12 +53,12 @@
     }
     .btn--yes {
         position: absolute;
-        width: var(width-btn);
+
         left: 30px;
         top: 100px
     }
     .btn--no {
-        width: var(width-btn);
+
         position: absolute;
         top: 280px;
         left: 30px;
